@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "carbon-components": "^10.58.3",
+    "react-router-dom": "^6.8.0"
+  }
+}
